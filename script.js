@@ -1,0 +1,23 @@
+const botao = document.getElementById("butt");
+
+botao.addEventListener("click", function () {
+    alert("Boa mlk, catchau🌩️😎");
+});
+
+const botao2 = document.getElementById("butt2");
+
+botao2.addEventListener("click", function(){
+    alert("comi o cu de quem clicou☺️😏");
+});
+
+
+
+const botao3 = document.getElementById("toggleBtn")
+const conteudo = document.getElementById("conteudo")
+
+botao3.addEventListener("click", () => {
+  console.log("CLIQUEI")
+  conteudo.classList.toggle("fechado")
+})
+
+

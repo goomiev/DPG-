@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+p{
+    color: grey;
+}
+
+button{
+    background-color: grey;
+    color: black;
+    border: none;
+    padding: 20px 10px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:hover {
+    background-color: rgb(67, 64, 64);
+}
+
+.daily{
+    background-color: rgb(20, 18, 18);
+    margin-top: 150px;
+    text-align: left;
+    list-style: square; /* circle | disc | none */
+    padding: 50px;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    padding: 50px;
+}
+
+footer{
+    font-size: smaller;
+}
+
+
+.redes {
+    text-align: center;
+    text-decoration: none;
+}
+
+.fechado {
+    display: none;
+}
+
+.aberto {
+    display: block;
+    margin-top: 10px;
+}
+
+#conteudo {
+  margin-top: 10px;
+}
+
