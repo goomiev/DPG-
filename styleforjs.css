@@ -1,0 +1,66 @@
+
+/* Configuração da Barra */
+.navbar {
+    display: flex;
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    border-radius: 25px;
+}
+
+.logo{
+    font-size: larger;
+ padding-left: 10px;
+    margin-top: 10px;
+}
+
+.nav-links{
+    display: flex;
+    gap: 20px;
+   list-style: none;
+   text-decoration: none;
+   color: black;
+
+}
+
+
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+p{
+    color: grey;
+}
+
+button{
+    background-color: grey;
+    color: black;
+    border: none;
+    padding: 20px 10px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:hover {
+    background-color: rgb(67, 64, 64);
+}
+.roxo{
+    color: rgb(181, 133, 227);
+}
+
+.verde {
+    color: green;
+}
+
+.azul{
+    color: blue;
+}
+
+.um{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
