@@ -20,4 +20,14 @@ botao3.addEventListener("click", () => {
   conteudo.classList.toggle("fechado")
 })
 
+const botao4 = document.getElementById("toggleBtn2")
+const conteudo2 = document.getElementById("conteudo2")
+
+botao4.addEventListener("click", () => {
+  console.log("CLIQUEI")
+  conteudo2.classList.toggle("fechado")
+})
+
+
+
 
