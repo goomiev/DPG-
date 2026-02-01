@@ -5,6 +5,15 @@ body{
     color: white;
     padding: 30px;
 }
+ 
+.sessão-tema{
+    margin-left: 50px;
+    display: flex;
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    border-radius: 25px;
+}
 
 p{
     color: grey;
@@ -58,4 +67,19 @@ footer{
 #conteudo {
   margin-top: 10px;
 }
+
+
+
+
+.js{
+    background-color: rgb(243, 243, 148);
+    padding-left:20px;
+    padding-right: 20px;
+}
+
+.links {
+    margin: 30px;
+        text-decoration: none;
+}
+
 
