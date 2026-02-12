@@ -7,7 +7,7 @@ botao.addEventListener("click", function () {
 const botao2 = document.getElementById("butt2");
 
 botao2.addEventListener("click", function(){
-    alert("comi o cu de quem clicou☺️😏");
+    alert("Pura teimosia☺️😏");
 });
 
 
@@ -27,6 +27,7 @@ botao4.addEventListener("click", () => {
   console.log("CLIQUEI")
   conteudo2.classList.toggle("fechado")
 })
+
 
 
 
